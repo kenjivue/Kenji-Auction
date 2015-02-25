@@ -591,6 +591,6 @@ th:hover, tr:hover {
 }
 
 a.skip {
-	position: absolute;
-	left: -9999px;
+    position: absolute;
+    left: -9999px;
 }
